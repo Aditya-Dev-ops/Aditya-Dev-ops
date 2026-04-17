@@ -85,21 +85,21 @@
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | 🔧 Portfolio | This is my Portfolio | Ract , GSAP , Three.js | [Live](https://portfolio-aditya-delta.vercel.app/) • [Code](https://github.com/Aditya-Dev-ops/Portfolio-Aditya/settings) |
-| 🔧 Project 2 | Add description | Next.js, Prisma, Docker | [Live](#) • [Code](#) |
-| 🔧 Project 3 | Add description | TypeScript, Express, MongoDB | [Live](#) • [Code](#) |
+| 🔧 Zentry| Frontend | This is a gaming showcase Webpage  | React.js, GSAP , Tailwindcss | [Live](https://zentry-aditya.netlify.app/) • [Code](https://github.com/Aditya-Dev-ops/Zentry-Web-App) |
+| 🔧 N-8-N | GEN-AI | This is my current project where i Built an automation platform inspired by n8n with a visual workflow builder, execution engine, and AI integrations.  | TypeScript, Express, Prisma , Next.js , Trpc , Ingest , AIsdk , Shadcn | [Live](#) • [Code](https://github.com/Aditya-Dev-ops/n-8-n_Aditya_GenAI) |
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/aditya-sharma-756b2b249/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aditya.developer.33@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO.vercel.app">
+  <a href="https://portfolio-aditya-delta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
