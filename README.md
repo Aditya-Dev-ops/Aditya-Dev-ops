@@ -84,7 +84,7 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🔧 Project 1 | Add description | React, Node.js, PostgreSQL | [Live](#) • [Code](#) |
+| 🔧 Portfolio | This is my Portfolio | Ract , GSAP , Three.js | [Live](https://portfolio-aditya-delta.vercel.app/) • [Code](https://github.com/Aditya-Dev-ops/Portfolio-Aditya/settings) |
 | 🔧 Project 2 | Add description | Next.js, Prisma, Docker | [Live](#) • [Code](#) |
 | 🔧 Project 3 | Add description | TypeScript, Express, MongoDB | [Live](#) • [Code](#) |
 
