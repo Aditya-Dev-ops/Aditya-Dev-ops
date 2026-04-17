@@ -85,8 +85,8 @@
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | 🔧 Portfolio | This is my Portfolio | Ract , GSAP , Three.js | [Live](https://portfolio-aditya-delta.vercel.app/) • [Code](https://github.com/Aditya-Dev-ops/Portfolio-Aditya/settings) |
-| 🔧 Zentry| Frontend | This is a gaming showcase Webpage  | React.js, GSAP , Tailwindcss | [Live](https://zentry-aditya.netlify.app/) • [Code](https://github.com/Aditya-Dev-ops/Zentry-Web-App) |
-| 🔧 N-8-N | GEN-AI | This is my current project where i Built an automation platform inspired by n8n with a visual workflow builder, execution engine, and AI integrations.  | TypeScript, Express, Prisma , Next.js , Trpc , Ingest , AIsdk , Shadcn | [Live](#) • [Code](https://github.com/Aditya-Dev-ops/n-8-n_Aditya_GenAI) |
+| 🔧 Zentry Frontend | This is a gaming showcase Webpage  | React.js, GSAP , Tailwindcss | [Live](https://zentry-aditya.netlify.app/) • [Code](https://github.com/Aditya-Dev-ops/Zentry-Web-App) |
+| 🔧 N-8-N GEN-AI | This is my current project where i Built an automation platform inspired by n8n with a visual workflow builder, execution engine, and AI integrations.  | TypeScript, Express, Prisma , Next.js , Trpc , Ingest , AIsdk , Shadcn | [Live](#) • [Code](https://github.com/Aditya-Dev-ops/n-8-n_Aditya_GenAI) |
 
 ---
 
