@@ -61,7 +61,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-AFAC37?style=for-the-badge&logo=Cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-00FAAA?style=for-the-badge&logo=Cursor&logoColor=white)
 ---
 
 ## 📊 GitHub Stats
